@@ -20,7 +20,7 @@
   "homepage": "https://github.com/JackKellyBayliss/spoticord-mlg#readme",
   "dependencies": {
     "discord-rpc": "^3.0.0-beta.4",
-    "fancy-log": "^1.3.0",
+    "fancy-log": "^1.3.1",
     "request": "^2.83.0",
     "wintools": "^0.1.0",
     "color-log": "^0.0.2",
